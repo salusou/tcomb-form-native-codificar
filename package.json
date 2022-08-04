@@ -1,34 +1,7 @@
 {
-  "name": "tcomb-form-native-codificar",
+  "name": "@evibe/tcomb-form-native-codificar",
   "version": "0.2.1",
-  "_from": "tcomb-form-native-codificar",
-  "_id": "tcomb-form-native-codificar@0.1.0",
-  "_inBundle": false,
-  "_integrity": "sha512-wFqSsDOe+4ERpmAkNzjFubAna/nhBRpm6Ri3hP4ubZkVVhE7MHhcNMcRQ4+xnTx5DxNJaB1VoSPePUIblJs87Q==",
-  "_location": "/tcomb-form-native-codificar",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "tcomb-form-native-codificar",
-    "name": "tcomb-form-native-codificar",
-    "escapedName": "tcomb-form-native-codificar",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "",
-  "_shasum": "",
-  "_spec": "tcomb-form-native-codificar",
-  "_where": "",
-  "author": {
-    "name": "Genesisoft"
-  },
-  "bundleDependencies": false,
+  "author": "Genesisoft",
   "dependencies": {
     "react-native-text-input-mask": "^0.8.0",
     "tcomb-validation": "^3.0.0"
@@ -62,5 +35,22 @@
     "react",
     "react-native",
     "react-component"
-  ]
+  ],
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salusou/tcomb-form-native-codificar.git"
+  },
+  "keywords": [
+    "tcomb",
+    "form"
+  ],
+  "bugs": {
+    "url": "https://github.com/salusou/tcomb-form-native-codificar/issues"
+  },
+  "homepage": "https://github.com/salusou/tcomb-form-native-codificar#readme"
 }
