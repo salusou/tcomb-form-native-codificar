@@ -1,0 +1,9 @@
+*.log
+AwesomeProject.xcodeproj
+AwesomeProjectTests
+index.ios.js
+iOS
+.idea
+
+# Project exclude paths
+/node_modules/

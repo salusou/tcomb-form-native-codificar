@@ -1,0 +1,66 @@
+{
+  "name": "tcomb-form-native-codificar",
+  "version": "0.2.1",
+  "_from": "tcomb-form-native-codificar",
+  "_id": "tcomb-form-native-codificar@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-wFqSsDOe+4ERpmAkNzjFubAna/nhBRpm6Ri3hP4ubZkVVhE7MHhcNMcRQ4+xnTx5DxNJaB1VoSPePUIblJs87Q==",
+  "_location": "/tcomb-form-native-codificar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tcomb-form-native-codificar",
+    "name": "tcomb-form-native-codificar",
+    "escapedName": "tcomb-form-native-codificar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_shasum": "",
+  "_spec": "tcomb-form-native-codificar",
+  "_where": "",
+  "author": {
+    "name": "Genesisoft"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-text-input-mask": "^0.8.0",
+    "tcomb-validation": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "react-native powered UI library for developing forms writing less code",
+  "devDependencies": {
+    "@types/eslint-plugin-prettier": "^2.2.0",
+    "@types/prettier": "^1.7.0",
+    "babel": "5.8.34",
+    "babel-core": "5.8.34",
+    "eslint": "^4.9.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-react": "2.5.2",
+    "prettier": "^1.7.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "tape": "3.5.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint lib",
+    "test": "npm run lint && babel-node test"
+  },
+  "tags": [
+    "tcomb",
+    "form",
+    "forms",
+    "react",
+    "react-native",
+    "react-component"
+  ]
+}
